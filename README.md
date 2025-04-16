@@ -67,7 +67,7 @@
 
 ---
 
-## Spreading Positivity & Inspiration :sparkles: :heart: :sunflower:
+## Spreading Positivity & Inspiration :
 
 <!-- Custom wordcloud image with positive words -->
 <img src="https://raw.githubusercontent.com/Aleja1980/Aleja1980/refs/heads/main/Imagenes/motivation.png" alt="Motivation Image" width="100%">
