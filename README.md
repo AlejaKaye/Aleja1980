@@ -50,13 +50,13 @@
 <div align="left">
   <ul>
     <li>
-      <a href="https://linkedin.com/in/linkedin.com/in/alejandra-martinez-vargas-4aa51717a" target="_blank">
+      <a href= "https://www.linkedin.com/in/alejandra-martinez-v-4aa51717a/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-AlejandraMartinezVargas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </li>
     <br>
     <li>
-      <a href="mailto:alecotwin@gmail.com" target="_blank">
+      <a href= "mailto:alecotwin@gmail.com" " target="_blank">
         <img src="https://img.shields.io/badge/Gmail-alecotwin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
       </a>
     </li>
