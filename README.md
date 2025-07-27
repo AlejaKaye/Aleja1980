@@ -13,10 +13,7 @@
 
 ## About Me
 <p>
-- Passionate **Data Analyst** and seasoned **Regional Sales Supervisor** based in Ciudad de México.  
-- Skilled in **Python, SQL, Tableau & Power BI** for turning raw data into strategic decisions.  
-- Focused on leveraging data-driven insights to boost business outcomes.  
-- Always open to new challenges and opportunities for continuous growth.
+I'm a business-minded Data Analyst and seasoned Regional Retail Supervisor based in Ciudad de México. I use Python, SQL, Tableau and Power BI to turn raw data into strategic decisions that drive business growth. Passionate about leveraging data-driven insights and storytelling to unlock impact across retail, marketing and operations. Always open to new challenges and continuous learning.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Banner">
